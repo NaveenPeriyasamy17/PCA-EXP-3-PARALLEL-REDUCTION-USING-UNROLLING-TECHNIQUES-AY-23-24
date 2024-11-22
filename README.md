@@ -49,10 +49,6 @@ Memory Deallocation
 28.	Return from the main function.
 
 ## PROGRAM:
-```
-Name : Aldrin Lijo J E
-Reg No: 212222240007
-```
 ```py
 %%cuda
 #include <stdio.h>
